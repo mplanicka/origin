@@ -1,1 +1,3 @@
-test 2 3
+stages
+ - test
+ - build
